@@ -1,0 +1,38 @@
+version control
+
+<一>方式
+1、period time
+ex:15分钟自动保存一次。
+
+2、period sum
+ex:50行一次。
+
+3、业务逻辑
+ex:一段时间未操作。（逻辑模块）
+
+4、手动
+
+
+<二>常见的version control工具
+1、wikipedia
+
+
+2、google docs
+
+
+3、git
+
+
+git 、commit 、repository
+
+
+git log
+查看各版本id号，时间，操作人，简述
+不同版本建议添加简短注释说明。
+
+git diff
+查看各版本区别
+
+git checkout
+运行某版本。
+
