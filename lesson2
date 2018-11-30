@@ -37,5 +37,19 @@ Feature: 总结变动的内容，保持在50个字符内
 解决了问题：#123
 另见：#456, #789
 
+<branch--分支>
+git branch 
+#查看分支
+git branch [new*]
+git checkout [new*]
+#运行
+vim [new*]
+
+git add [new*]
+git commit #标题
+
+git log --graph --oneline [branch1][branch2]
+
+reachable(可达性)
 
 
